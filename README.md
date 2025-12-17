@@ -35,6 +35,7 @@ The goal is to build foundational CS skills through progressively challenging pr
    - Python code (`.py`)  
    - Optional data files (JSON/CSV)  
    - README with project description and usage
+   - project files will be saved to projects repository
 
 2. **Progress Tracking:**  
    - Update the **Status** column as you move from *Planned → In Progress → Completed*.  
